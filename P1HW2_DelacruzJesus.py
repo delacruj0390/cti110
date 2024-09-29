@@ -1,4 +1,4 @@
-#TJesus Delacruz
+#Jesus Delacruz
 #September25,2024
 #P1HW2_DelacruzJesus
 #This program calculates travel expenses
